@@ -1,0 +1,13 @@
+resolver: lts-13.10
+packages: []
+extra-deps:
+  - git: https://github.com/Euterpea/Euterpea2.git
+    commit: 55f78907ad29ce35e7e0b5ca101b60cd0efca555
+  - PortMidi-0.2.0.0
+  - arrows-0.4.4.2
+  - Stream-0.4.7.2
+  - lazysmallcheck-0.6
+  - git: https://github.com/Euterpea/HSoM.git
+    commit: 75338cbac2a3e4a2cae32448ca729de421ecd404
+  - UISF-0.4.0.0
+  - pure-fft-0.2.0
